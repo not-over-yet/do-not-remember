@@ -1,0 +1,33 @@
+C:\Users\User\Documents\Program\DO NOT REMEMBER\DO NOT REMEMBER\bin\Debug\DO NOT REMEMBER.exe.config
+C:\Users\User\Documents\Program\DO NOT REMEMBER\DO NOT REMEMBER\bin\Debug\DO NOT REMEMBER.exe
+C:\Users\User\Documents\Program\DO NOT REMEMBER\DO NOT REMEMBER\bin\Debug\DO NOT REMEMBER.pdb
+C:\Users\User\Documents\Program\DO NOT REMEMBER\DO NOT REMEMBER\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\User\Documents\Program\DO NOT REMEMBER\DO NOT REMEMBER\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Documents\Program\DO NOT REMEMBER\DO NOT REMEMBER\bin\Debug\MetroFramework.dll
+C:\Users\User\Documents\Program\DO NOT REMEMBER\DO NOT REMEMBER\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Documents\Program\DO NOT REMEMBER\DO NOT REMEMBER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\Program\DO NOT REMEMBER\DO NOT REMEMBER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\Program\DO NOT REMEMBER\DO NOT REMEMBER\obj\Debug\DO NOT REMEMBER.csprojAssemblyReference.cache
+C:\Users\User\Documents\Program\DO NOT REMEMBER\DO NOT REMEMBER\obj\Debug\DO_NOT_REMEMBER.Properties.Resources.resources
+C:\Users\User\Documents\Program\DO NOT REMEMBER\DO NOT REMEMBER\obj\Debug\DO NOT REMEMBER.csproj.GenerateResource.cache
+C:\Users\User\Documents\Program\DO NOT REMEMBER\DO NOT REMEMBER\obj\Debug\DO NOT REMEMBER.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Program\DO NOT REMEMBER\DO NOT REMEMBER\obj\Debug\DO NOT REMEMBER.csproj.CopyComplete
+C:\Users\User\Documents\Program\DO NOT REMEMBER\DO NOT REMEMBER\obj\Debug\DO NOT REMEMBER.exe
+C:\Users\User\Documents\Program\DO NOT REMEMBER\DO NOT REMEMBER\obj\Debug\DO NOT REMEMBER.pdb
+C:\Users\User\Documents\Program\DO NOT REMEMBER\DO NOT REMEMBER\obj\Debug\DO_NOT_REMEMBER.Form1.resources
+C:\Users\User\Documents\Program\do-not-remember\DO NOT REMEMBER\obj\Debug\DO NOT REMEMBER.csprojAssemblyReference.cache
+C:\Users\User\Documents\Program\do-not-remember\DO NOT REMEMBER\obj\Debug\DO_NOT_REMEMBER.Form1.resources
+C:\Users\User\Documents\Program\do-not-remember\DO NOT REMEMBER\obj\Debug\DO_NOT_REMEMBER.Properties.Resources.resources
+C:\Users\User\Documents\Program\do-not-remember\DO NOT REMEMBER\obj\Debug\DO NOT REMEMBER.csproj.GenerateResource.cache
+C:\Users\User\Documents\Program\do-not-remember\DO NOT REMEMBER\obj\Debug\DO NOT REMEMBER.exe
+C:\Users\User\Documents\Program\do-not-remember\DO NOT REMEMBER\obj\Debug\DO NOT REMEMBER.pdb
+C:\Users\User\Documents\Program\do-not-remember\DO NOT REMEMBER\bin\Debug\DO NOT REMEMBER.exe.config
+C:\Users\User\Documents\Program\do-not-remember\DO NOT REMEMBER\bin\Debug\DO NOT REMEMBER.exe
+C:\Users\User\Documents\Program\do-not-remember\DO NOT REMEMBER\bin\Debug\DO NOT REMEMBER.pdb
+C:\Users\User\Documents\Program\do-not-remember\DO NOT REMEMBER\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\User\Documents\Program\do-not-remember\DO NOT REMEMBER\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Documents\Program\do-not-remember\DO NOT REMEMBER\bin\Debug\MetroFramework.dll
+C:\Users\User\Documents\Program\do-not-remember\DO NOT REMEMBER\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Documents\Program\do-not-remember\DO NOT REMEMBER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\Program\do-not-remember\DO NOT REMEMBER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\Program\do-not-remember\DO NOT REMEMBER\obj\Debug\DO NOT REMEMBER.csproj.CopyComplete
